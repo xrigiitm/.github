@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/xrig-iitm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xrig-iitm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/XRIG-IITM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xrig-iitm" height="30" width="40" /></a>
 <a href="https://instagram.com/xrig_iitm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xrig_iitm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xr innovation group iitm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xr innovation group iitm" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/XR Innovation Group IITM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xr innovation group iitm" height="30" width="40" /></a>
 </p>
 
 
